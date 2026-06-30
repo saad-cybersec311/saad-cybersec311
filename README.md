@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Syed Saad 👋
 
-<!--
-**saad-cybersec311/saad-cybersec311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Aspiring Cloud Security Engineer 
+## | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+Currently learning Cybersecurity, 
+Cloud Security and AI at 
+Networkers Home, Bangalore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I'm Learning
+- Network Security & CCNA
+- Ethical Hacking
+- Cloud Security (AWS/Azure)
+- AI in Cybersecurity
+
+### 🛠️ Tools I Use
+- GNS3
+- Cisco Packet Tracer
+- Kali Linux (Learning)
+- AWS (Learning)
+
+### 📚 Currently Preparing For
+- CompTIA Security+
+- AWS Cloud Practitioner
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/syed-saad-1724a535b
+
+### 🌱 Currently Learning
+Networking fundamentals, 
+ethical hacking, and 
+cloud security architecture
+
+> "Coming from struggle, 
+> building towards excellence"
